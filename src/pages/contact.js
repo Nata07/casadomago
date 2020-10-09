@@ -29,6 +29,7 @@ const ContactPage = ({ data: { site } }) => {
             className="form-container"
             action="https://sendmail.w3layouts.com/SubmitContactForm"
             method="post"
+            data-netlify="true"
           >
             <div>
               <label htmlFor="w3lName">Name</label>
