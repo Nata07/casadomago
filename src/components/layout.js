@@ -20,8 +20,11 @@ export default ({ children }) => {
       <header className="site-header">
         <div className="site-title">
           <Link to="/">
-            {/* {data.site.siteMetadata.title} */}
-            <img src="/assets/logo.svg" width="160" alt="Casa do Mago" />
+            <img
+              src="/assets/logo.svg"
+              width="160"
+              alt={data.site.siteMetadata.title}
+            />
           </Link>
         </div>
         <Navigation />
