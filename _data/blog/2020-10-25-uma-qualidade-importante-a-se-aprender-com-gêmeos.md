@@ -8,8 +8,7 @@ thumbnail: /assets/68962711_2571607059527917_6966166714769735680_o.jpg
 <!--StartFragment-->
 
 Algo importante para aprender com a energia de gêmeos:\
-"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende."\
-- Leonardo da Vinci\
+"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo da Vinci\
 A curiosidade deveria ser também, uma dádiva, se já não é. Pois, a atrofia da mente nos limita e nos impede de progredir. Já dizia o filósofo Augostinho da Silva "O que impede de saber não são nem o tempo nem a inteligência, mas somente a falta de curiosidade". A falta da curiosidade genuína tem o poder de disseminar a ignorância como uma praga que adoece a lavoura.\
 Todos nós temos limitações, e a única forma de sermos por estas prejudicados acredite ou não está na não ousadia em querer aprender; compreender o fluxo das coisas, em desejar saber mais do que o superficial, ter flexibilidade e encaixar informações. Seja está tratada como um traço da nossa personalidade seja em determinadas áreas na nossa vida.\
 Se você pouco aprende pouco terá o que ensinar; e lembramos, a troca é divina!\
