@@ -3,7 +3,7 @@ template: BlogPost
 path: /qualidade-de-virgem
 date: 2020-10-25T18:55:09.714Z
 title: 'Uma qualidade a se aprender com: Leão'
-thumbnail: /assets/sh_virgem-no-mapa-astra_794531533.jpg
+thumbnail: /assets/sh_virgem_1126620344.jpg
 ---
 <!--StartFragment-->
 
