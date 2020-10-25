@@ -3,7 +3,7 @@ template: BlogPost
 path: /qualidade-de-libra
 date: 2020-10-25T19:31:29.330Z
 title: 'Uma qualidade importante a se aprender com: Libra'
-thumbnail: /assets/Libra-shutterstock_703869733.jpg
+thumbnail: /assets/sol-em-libra-signo-balança.jpg
 ---
 <!--StartFragment-->
 
