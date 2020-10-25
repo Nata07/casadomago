@@ -2,7 +2,7 @@
 template: BlogPost
 path: /qualidade-de-virgem
 date: 2020-10-25T18:55:09.714Z
-title: 'Uma qualidade a se aprender com: Virgem'
+title: 'Uma qualidade importante a se aprender com: Virgem'
 thumbnail: /assets/sh_virgem_1126620344.jpg
 ---
 <!--StartFragment-->
