@@ -3,6 +3,7 @@ template: BlogPost
 path: /qualidade-de-gêmeos
 date: 2020-10-25T18:21:51.860Z
 title: 'Uma qualidade importante a se aprender com: Gêmeos'
+thumbnail: /assets/68962711_2571607059527917_6966166714769735680_o.jpg
 ---
 <!--StartFragment-->
 
