@@ -3,7 +3,7 @@ template: BlogPost
 path: /qualidade-de-escorpião
 date: 2020-10-25T19:43:13.780Z
 title: Uma qualidade importante a se aprender com signo de escorpião
-thumbnail: /assets/Marte-em-escorpiao-mega-astrologia-1024x804.jpg
+thumbnail: /assets/marte em escorpião.jpg
 ---
 <!--StartFragment-->
 
