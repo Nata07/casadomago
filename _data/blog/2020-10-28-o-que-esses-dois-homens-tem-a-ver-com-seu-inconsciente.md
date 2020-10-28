@@ -3,7 +3,7 @@ template: BlogPost
 path: /inconsciente
 date: 2020-10-28T11:15:40.862Z
 title: O que esses dois homens tem a ver com seu inconsciente?
-thumbnail: /assets/122805676_107556274485617_493337518045155683_n.jpg
+thumbnail: /assets/Freud-Jung.jpg
 ---
 <!--StartFragment-->
 
