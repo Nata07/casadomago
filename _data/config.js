@@ -1,6 +1,6 @@
 const config = {
   googleAnalyticsID: "G-XB87N4C1DK",
-  siteUrl: "http://casadomago.comcom",
+  siteUrl: "http://casadomago.com",
 };
 
 module.exports = config;
