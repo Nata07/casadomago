@@ -2,13 +2,16 @@ import React from "react";
 import Helmet from "react-helmet";
 import Layout from "../components/layout";
 import { Link } from "gatsby";
+import SEO from '../components/SEO';
 
 const notFound = () => {
+  const site = require('../../site-meta-data.json')
   return (
     <Layout>
       <Helmet>
         <title>Page not found</title>
       </Helmet>
+      <SEO title='Casa do Mago' url='casadomago.com' description='Reconecte-se' article />
       <div style={{ textAlign: "center", padding: "5vh 0", lineHeight: "1.5" }}>
         <svg
           width="256"
