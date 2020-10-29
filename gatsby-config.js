@@ -3,6 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
+const config = require('./_data/config')
 
 module.exports = {
   /* Your site config here */
@@ -39,7 +40,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "UA-164743872-1",
+        trackingId: config.googleAnalyticsID,
         head: true,
       },
     },

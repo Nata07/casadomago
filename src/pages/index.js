@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PostLink from "../components/post-link";
 import HeroHeader from "../components/heroHeader";
+import SEO from '../components/SEO';
 
 const IndexPage = ({
   data: {
@@ -22,6 +23,7 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader />
+      <SEO title={site.siteMetadata.title} url='casadomago.com' description={site.siteMetadata.description} article />
         <div>
           <h2>Entre no nosso grupo do Whatsapp &darr;</h2> 
           <div style={{ display: "flex", justifyContent: "flex-start" }}>
