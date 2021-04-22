@@ -3,7 +3,7 @@ template: BlogPost
 path: /qualidade-de-cancer
 date: 2020-10-25T18:25:22.985Z
 title: 'Uma qualidade importante a se aprender com: Câncer'
-thumbnail: /assets/88953900_2977834898905129_2995413683762364416_o.jpg
+thumbnail: /assets/cancer-2021.png
 ---
 <!--StartFragment-->
 
