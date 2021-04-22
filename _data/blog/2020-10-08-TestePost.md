@@ -2,8 +2,8 @@
 template: BlogPost
 path: /beleza-acendente
 date: 2020-10-08T14:59:36.571Z
-title: Ascendente, o que é isso?
-thumbnail: /assets/image-5.jpg
+title: 'Ascendente, o que é isso?'
+thumbnail: /assets/unnamed.jpg
 ---
 
 ## Beleza, mas o que que é esse lance de Ascendente?
