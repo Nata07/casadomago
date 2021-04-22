@@ -3,7 +3,7 @@ template: BlogPost
 path: /aoorientaracriançaariana
 date: 2021-04-22T04:34:13.555Z
 title: Ao orientar a criança Ariana
-thumbnail: /assets/Screenshot_18.png
+thumbnail: /assets/bode_6996-617.jpg
 ---
 Deixa nos comentários a frase que você mais repete pra sua criança Ariana!
 
