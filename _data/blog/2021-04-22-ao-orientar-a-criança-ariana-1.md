@@ -3,6 +3,7 @@ template: BlogPost
 path: /aoorientaracriançaariana
 date: 2021-04-22T04:55:19.527Z
 title: Ao orientar a Criança Ariana
+thumbnail: /assets/10-razoes-inquestionaveis-para-assistir-o-touro-ferdinando.jpg
 ---
 Sensíveis, as crianças com forte energia taurina, seja no Sol, no Ascendente ou na Lua, guardam sensações com muita força e dificilmente esquecem quando são feridas verdadeiramente.
 Com aparência geralmente doce, e lenta, pode parecer que esses pequenos não sentem tanto assim. Como qualquer outro signo, as características naturais devem sempre ser exaltadas, deixando menos espaço para o que não é tão bom.
