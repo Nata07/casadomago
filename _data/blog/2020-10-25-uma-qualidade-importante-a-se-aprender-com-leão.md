@@ -3,7 +3,7 @@ template: BlogPost
 path: /qualidade-de-leao
 date: 2020-10-25T18:39:37.629Z
 title: 'Uma qualidade importante a se aprender com: Leão'
-thumbnail: /assets/DSC_0862.JPG
+thumbnail: /assets/O-Rei-Leao-2.jpg
 ---
 <!--StartFragment-->
 
