@@ -3,7 +3,7 @@ template: BlogPost
 path: /acriançadearies
 date: 2021-04-22T03:46:29.082Z
 title: A Criança de Áries
-thumbnail: /assets/135274968_162470878994156_466464435319745187_n.jpg
+thumbnail: /assets/d941bde54129373b1afd6aaa4c01813d.jpg
 ---
 Áries é o primeiro signo do zodíaco e portanto, a criança.
 
